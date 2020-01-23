@@ -4,7 +4,8 @@ def highest_student_gpa
    "select MAX(gpa) from students;"
 end
 
-def lowest_student_gpa
+def lowest_student_gpa 
+  "select"
   
 end
 
